@@ -9,7 +9,7 @@ Computer Science & Cybersecurity student building hands-on experience in Linux s
 - Home lab virtualization (Linux environments)
 
 ## Long-Term Goal
-Transition into SOC and digital forensics roles focused on log analysis, incident response, and threat investigation.
+Long-term goal: Transition into SOC and digital forensics roles with a focus on log analysis, incident response, and threat investigation.
 
 ## Projects
 - Interactive Security Log Analysis Toolkit (Python)
