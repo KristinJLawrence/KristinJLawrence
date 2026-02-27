@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kristin 👋
 
-<!--
-**KristinJLawrence/KristinJLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Cybersecurity student building hands-on experience in Linux systems, virtualization, and security monitoring.
 
-Here are some ideas to get you started:
+## Current Focus
+- Infrastructure & Data Center operations
+- Authentication log analysis and incident detection
+- Python-based automation tools
+- Home lab virtualization (Linux environments)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Long-Term Goal
+Transition into SOC and digital forensics roles focused on log analysis, incident response, and threat investigation.
+
+## Projects
+- Interactive Security Log Analysis Toolkit (Python)
+- Linux Log Analyzer
+- Security-focused Python utilities
